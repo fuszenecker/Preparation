@@ -9,6 +9,7 @@
 |              | Gyújtássegítő       | ×     | ×    | ×           | ×          |
 | Szerszám     | Multitool, kés      | ×     | ×    | ×           | ×          |
 |              | Fejsze, bárd        |       |      | ×           | ×          |
+|              | Kézi ásó            |       | ×    | ×           | ×          |
 |              | Madzag, drót        | ×     | ×    | ×           | ×          |
 |              | Duct tape           | ×     | ×    | ×           | ×          |
 |              | Tű, cérna, damil    |       |      | ×           | ×          |
