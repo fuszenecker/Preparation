@@ -10,9 +10,13 @@
 |              | Madzag, drót        | ×     | ×    | ×           | ×          |
 |              | Duct tape           | ×     | ×    | ×           | ×          |
 |              | Tű, cérna, damil    |       |      | ×           | ×          |
-| Víz          | Vízszűrő            | ×     | ×    | fém         | ×          |
-|              | Edények             | ×     | ×    | fém         | fém        |
+| Víz          | Vízszűrő (Sawyer)   | ×     | ×    | ×           | ×          |
+|              | Ketadyn Micropur    |       |      | ×           | ×          |
+|              | Edények (kulacs)    | ×     | ×    | fém         | fém        |
 | Étel         | Ennivaló            | ×     | ×    | ×           | ×          |
+|              | Camping gázfőző     |       |      | ×           | ×          |
+|              | C200, C206 gáz      |       |      | ×           | ×          |
+| Tisztálkodás | Szappan             |       |      | ×           | ×          |
 | Mobilitás    | Tartalék zokni      | ×     | ×    | ×           | ×          |
 |              | Iránytű, térkép     |       | ×    | ×           | ×          |
 | Technológia  | Nepelem, töltő      |       |      | ×           | ×          |
