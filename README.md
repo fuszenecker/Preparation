@@ -5,6 +5,7 @@
 | Hőszigetelés | Sátorlap            |       |      | ×           | ×          |
 |              | Hőtartó fólia       | ×     | ×    | ×           | ×          |
 | Tűz          | Ferro rod           | ×     | ×    | ×           | ×          |
+|              | Gyújtássegítő       | ×     | ×    | ×           | ×          |
 | Szerszám     | Multitool, kés      | ×     | ×    | ×           | ×          |
 |              | Fejsze, bárd        |       |      | ×           | ×          |
 |              | Madzag, drót        | ×     | ×    | ×           | ×          |
@@ -27,3 +28,11 @@
 | Pénz         | Készpénz            | ×     | ×    | ×           | ×          |
 |              | Ezüst               |       |      | ×           | ×          |
 | Iratok       | Személyi iratok     | ×     | ×    | ×           | ×          |
+| Gyógyszerek  | Algoflex            |       | ×    | ×           | ×          |
+|              | Advil               |       | ×    | ×           | ×          |
+|              | Voltaren            |       | ×    | ×           | ×          |
+|              | Cataflam            |       | ×    | ×           | ×          |
+|              | Panadol             |       |      | ×           | ×          |
+|              | Rubophen            |       |      | ×           | ×          |
+|              | Betadine            |       |      | ×           | ×          |
+|              | Imodium             |       |      | ×           | ×          |
