@@ -3,6 +3,7 @@
 | KAtegória    | Eszköz              | Város | Anna | Katasztrófa | Összeonlás |
 |--------------|---------------------|:-----:|:----:|:-----------:|:----------:|
 | Hőszigetelés | Sátorlap            |       |      | ×           | ×          |
+|              | Takató, pléd        |       | ×    | ×           | ×          |
 |              | Hőtartó fólia       | ×     | ×    | ×           | ×          |
 | Tűz          | Ferro rod           | ×     | ×    | ×           | ×          |
 |              | Gyújtássegítő       | ×     | ×    | ×           | ×          |
@@ -11,10 +12,12 @@
 |              | Madzag, drót        | ×     | ×    | ×           | ×          |
 |              | Duct tape           | ×     | ×    | ×           | ×          |
 |              | Tű, cérna, damil    |       |      | ×           | ×          |
-| Víz          | Vízszűrő (Sawyer)   | ×     | ×    | ×           | ×          |
+| Víz          | Folyadék palackban  | ×     | ×    | ×           | ×          |
+|              | Vízszűrő (Sawyer)   | ×     | ×    | ×           | ×          |
 |              | Ketadyn Micropur    |       |      | ×           | ×          |
 |              | Edények (kulacs)    | ×     | ×    | fém         | fém        |
 | Étel         | Ennivaló            | ×     | ×    | ×           | ×          |
+|              | Eveszközük, edények |       |      | ×           | ×          |
 |              | Camping gázfőző     |       |      | ×           | ×          |
 |              | C200, C206 gáz      |       |      | ×           | ×          |
 | Tisztálkodás | Szappan             |       |      | ×           | ×          |
