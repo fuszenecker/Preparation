@@ -9,10 +9,13 @@
 |              | Gyújtássegítő       | ×     | ×    | ×           | ×          |
 | Szerszám     | Multitool, kés      | ×     | ×    | ×           | ×          |
 |              | Fejsze, bárd        |       |      | ×           | ×          |
+|              | Fafűrész            |       | ×    | ×           | ×          |
 |              | Kézi ásó            |       | ×    | ×           | ×          |
+|              | Kesztyű             |       | ×    | ×           | ×          |
 |              | Madzag, drót        | ×     | ×    | ×           | ×          |
 |              | Duct tape           | ×     | ×    | ×           | ×          |
 |              | Tű, cérna, damil    |       |      | ×           | ×          |
+|              | Nejlon zsák         |       |      | ×           | ×          |
 | Víz          | Folyadék palackban  | ×     | ×    | ×           | ×          |
 |              | Vízszűrő (Sawyer)   | ×     | ×    | ×           | ×          |
 |              | Ketadyn Micropur    |       |      | ×           | ×          |
