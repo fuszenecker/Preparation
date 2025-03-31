@@ -11,14 +11,14 @@
 |              | Fejsze, bárd            |       | ×    | ×           | ×          |
 |              | Fafűrész                |       | ×    | ×           | ×          |
 |              | Kézi ásó                |       | ×    | ×           | ×          |
-|              | Kesztyű                 |       | ×    |             | ×          |
+|              | Kesztyű                 |       | ×    | ×           | ×          |
 |              | Madzag, drót            | ×     | ×    | ×           | ×          |
 |              | Duct tape               | ×     | ×    | ×           | ×          |
 |              | Tű, cérna, damil        |       |      | ×           | ×          |
 | Víz          | Folyadék palackban      | ×     | ×    | ×           | ×          |
 |              | Vízszűrő (Sawyer)       | ×     | ×    | ×           | ×          |
 |              | Ketadyn Micropur        |       |      | ×           | ×          |
-|              | Edények (fémkulacs)     |       |      | ×           | ×          |
+|              | Edények (fémkulacs)     |       | ×    | ×           | ×          |
 | Étel         | Ennivaló                | ×     | ×    | ×           | ×          |
 |              | Evőeszközök, edények    |       |      | ×           | ×          |
 |              | Camping gázfőző         |       |      |             | ×          |
@@ -42,3 +42,8 @@
 |              | Rubophen                |       | ×    | ×           | ×          |
 |              | Betadine                |       | ×    | ×           | ×          |
 |              | Imodium                 |       | ×    | ×           | ×          |
+| Dokumentumok | Ehető növények          |       |      | ×           | ×          |
+| Túlélés      | Üllő                    |       |      |             | ×          |
+|              | Fújtató                 |       |      |             | ×          |
+|              | Fogók                   |       |      |             | ×          |
+|              | Lyukasztók              |       |      |             | ×          |
