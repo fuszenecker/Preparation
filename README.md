@@ -1,6 +1,6 @@
 # Felkészülés
 
-| KAtegória    | Eszköz                  | Város | Anna | Katasztrófa | Összeonlás |
+| KAtegória    | Eszköz                  | Város | Anna | Katasztrófa | Összeomlás |
 |--------------|-------------------------|:-----:|:----:|:-----------:|:----------:|
 | Hőszigetelés | Sátorlap                |       |      | ×           | ×          |
 |              | Takató, pléd            |       | ×    | ×           | ×          |
@@ -8,38 +8,37 @@
 | Tűz          | Ferro rod               | ×     | ×    | ×           | ×          |
 |              | Gyújtássegítő           | ×     | ×    | ×           | ×          |
 | Szerszám     | Multitool, kés          | ×     | ×    | ×           | ×          |
-|              | Fejsze, bárd            |       |      | ×           | ×          |
+|              | Fejsze, bárd            |       | ×    | ×           | ×          |
 |              | Fafűrész                |       | ×    | ×           | ×          |
 |              | Kézi ásó                |       | ×    | ×           | ×          |
-|              | Kesztyű                 |       | ×    | ×           | ×          |
+|              | Kesztyű                 |       | ×    |             | ×          |
 |              | Madzag, drót            | ×     | ×    | ×           | ×          |
 |              | Duct tape               | ×     | ×    | ×           | ×          |
 |              | Tű, cérna, damil        |       |      | ×           | ×          |
-|              | Nejlon zsák             |       |      | ×           | ×          |
 | Víz          | Folyadék palackban      | ×     | ×    | ×           | ×          |
 |              | Vízszűrő (Sawyer)       | ×     | ×    | ×           | ×          |
 |              | Ketadyn Micropur        |       |      | ×           | ×          |
-|              | Edények (kulacs)        | ×     | ×    | fém         | fém        |
+|              | Edények (fémkulacs)     |       |      | ×           | ×          |
 | Étel         | Ennivaló                | ×     | ×    | ×           | ×          |
 |              | Evőeszközök, edények    |       |      | ×           | ×          |
-|              | Camping gázfőző         |       |      | ×           | ×          |
-|              | C200, C206 gáz          |       |      | ×           | ×          |
+|              | Camping gázfőző         |       |      |             | ×          |
+|              | C200, C206 gáz          |       |      |             | ×          |
 | Tisztálkodás | Szappan                 |       |      | ×           | ×          |
 | Mobilitás    | Tartalék zokni          | ×     | ×    | ×           | ×          |
 |              | Iránytű, térkép         |       | ×    | ×           | ×          |
 | Technológia  | Nepelem, töltő          |       |      | ×           | ×          |
 |              | USB-kábelek             | ×     | ×    | ×           | ×          |
 |              | Zseblámpa               | ×     | ×    | ×           | ×          |
-|              | AM/FM rádió             |       | ×    | ×           | ×          |
+|              | AM/FM rádió             |       |      | ×           | ×          |
 |              | PMR                     | ×     | ×    | ×           | ×          |
 | Pénz         | Készpénz                | ×     | ×    | ×           | ×          |
-|              | Ezüst                   |       |      | ×           | ×          |
+|              | Ezüst                   |       |      |             | ×          |
 | Iratok       | Személyi iratok         | ×     | ×    | ×           | ×          |
-| Gyógyszerek  | Algoflex                |       | ×    | ×           | ×          |
-|              | Advil                   |       | ×    | ×           | ×          |
-|              | Voltaren                |       | ×    | ×           | ×          |
+| Gyógyszerek  | Algoflex                |       |      |             | ×          |
+|              | Advil                   | ×     | ×    | ×           | ×          |
+|              | Voltaren                |       |      |             | ×          |
 |              | Cataflam                |       | ×    | ×           | ×          |
-|              | Panadol                 |       |      | ×           | ×          |
-|              | Rubophen                |       |      | ×           | ×          |
-|              | Betadine                |       |      | ×           | ×          |
-|              | Imodium                 |       |      | ×           | ×          |
+|              | Panadol                 |       |      |             | ×          |
+|              | Rubophen                |       | ×    | ×           | ×          |
+|              | Betadine                |       | ×    | ×           | ×          |
+|              | Imodium                 |       | ×    | ×           | ×          |
